@@ -17,7 +17,7 @@ Starten mit `npm run dev`
 
 ## Backend
 - Java
-- SpringBoot
+- SpringBoot (https://start.spring.io/)
 
 ## Datenbank
 - MySQL
