@@ -9,7 +9,7 @@ Intro Webprogrammierung
 
 `npm -v`
 `npm install vite -g`
-`npm init vite` -> Name eingeben, React wählen, TypeScirpt wählen
+`npm init vite` -> Name eingeben, React wählen, TypeScript wählen
 
 Regelmäßig `npm install` ausführen
 
@@ -18,6 +18,12 @@ Starten mit `npm run dev`
 ## Backend
 - Java
 - SpringBoot (https://start.spring.io/)
+
+Zum starten: 
+- User (Entity)
+- UserRepository (Repository)
+- UserController (Controller)
+- AccountController (Controller)
 
 ## Datenbank
 - MySQL
