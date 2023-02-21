@@ -5,7 +5,15 @@ Intro Webprogrammierung
 - JavaScript
 - TypeScript
 - CSS
-- React
+- React (mui: https://mui.com/)
+
+`npm -v`
+`npm install vite -g`
+`npm init vite` -> Name eingeben, React wählen, TypeScirpt wählen
+
+Regelmäßig `npm install` ausführen
+
+Starten mit `npm run dev`
 
 ## Backend
 - Java
